@@ -1,0 +1,20 @@
+# 忽略實際媒體檔案（太大不適合 git）
+*.mp3
+*.mp4
+*.wav
+*.aac
+
+# 忽略分鏡圖片資料夾（圖片檔案太大）
+examples/*/分鏡圖片/
+
+# 忽略封面大圖
+examples/*/封面*.png
+examples/*/封面*.jpg
+
+# 系統檔案
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# 暫存
+*.tmp
