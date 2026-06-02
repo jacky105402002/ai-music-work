@@ -1,7 +1,8 @@
-# Skill 1 — 歌詞創作（lyrics-writing）
+# Skill 1 — 歌詞草稿（lyrics-draft）
 
 ## 目標
-根據 Intake 表單，創作完整歌詞草稿，並保留清晰的人工修改空間。
+根據 Intake 表單，快速產出結構完整的歌詞草稿。
+**此階段不追求完美——歌詞會在 Skill 2 的 Mureka 循環中持續迭代優化。**
 
 ## 輸入
 - Skill 0 完成的 Intake 表單
